@@ -232,6 +232,7 @@ p {
     .project-card {
         padding: 20px;
         min-height: auto;
+        text-align: center;
     }
 
     .about-card {
