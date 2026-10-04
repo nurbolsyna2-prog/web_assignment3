@@ -2,6 +2,7 @@
 student:Atshybai Nurbolsyn     group:IT-2503         course:frontend
 
 the Assignment #3. Responsive Web Design (Media Queries + Bootstrap Grid)
+My web:http://127.0.0.1:5500/index.html#
 
 objective:The goal of this assignment is to learn how to create responsive web pages using CSS Media Queries and the Bootstrap Grid system. 
 
